@@ -1,0 +1,5 @@
+Windows command tutorial: https://www.cs.princeton.edu/courses/archive/spr05/cos126/cmd-prompt.html
+More advanced command line: https://www.digitaltrends.com/computing/how-to-use-command-prompt/
+Better understanding bash vs powershell: https://searchitoperations.techtarget.com/tip/On-Windows-PowerShell-vs-Bash-comparison-gets-interesting
+bash commands: https://courses.cs.washington.edu/courses/cse390a/14au/bash.html
+shell commands: https://www.liquidweb.com/kb/new-user-tutorial-basic-shell-commands/
