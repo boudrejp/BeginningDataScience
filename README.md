@@ -10,6 +10,9 @@ A repo for materials for engineering PDPs to learn general data science and comp
   5. Simple R project to demonstrate reactivity concepts.
     * Needs to have a statistical model that will generate predictions based on user input
   6. Basic SQL knowledge, relational database knowledge
+  7. *Bonus* Parallel computing concepts
+  8. *Bonus* Http protocol, proxies, firewalls, APIs... build a project to obtain API data and display
+  9. *Bonus* How to create R packages
 
 ## __Prereqs__
   * You will need R and R studio installed on your device. *Note: If doing this on your work device, you will need local admin rights*
