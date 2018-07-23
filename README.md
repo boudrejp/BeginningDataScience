@@ -18,3 +18,5 @@ A repo for materials for engineering PDPs to learn general data science and comp
   * You will need R and R studio installed on your device. *Note: If doing this on your work device, you will need local admin rights*
     * R: https://cran.r-project.org/
     * R Studio: https://www.rstudio.com/ (You want R Studio Desktop, the free version)
+    * Jupyter Notebooks: http://jupyter.org/
+    * Python >= 3.5: https://www.python.org/
