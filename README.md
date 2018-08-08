@@ -20,3 +20,12 @@ A repo for materials for engineering PDPs to learn general data science and comp
     * R Studio: https://www.rstudio.com/ (You want R Studio Desktop, the free version)
     * Jupyter Notebooks: http://jupyter.org/
     * Python >= 3.5: https://www.python.org/
+  * Knowledge of basic statistics
+    * Linear Regression, standard deviations, normal distributions, hypothesis testing should be pretty intuitive to you
+  * Knowledge of calculus concepts
+    * You should be familiar with gradient descent at a minimum
+  * Experience in coding and thinking algorithmically
+    * Particular language is not important
+    * Should be able to pseudocode something like a basic sorting algorithm
+    * Know when and why you would want to use the following: if/else statements, for loop, while loop
+  * A desire to learn more about data science and expand your data analysis skills!
