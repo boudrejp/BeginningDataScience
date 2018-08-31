@@ -1,5 +1,5 @@
 # Data Science Resources
-Additional videos, documentation, articles, etc. that may help you in conducting your data science project.
+Additional videos, documentation, articles, etc. that may help you in conducting your data science project. If any of these links are broken, please open an issue for this repository.
 
 ### Helpful R packages with their Documentation
 * Dyplr
@@ -19,4 +19,3 @@ Additional videos, documentation, articles, etc. that may help you in conducting
 * A cheatsheet of how to think about choosing ML algorithms (a guide, not a definitive resource!)
 ![Cheat Sheet](http://1.bp.blogspot.com/-ME24ePzpzIM/UQLWTwurfXI/AAAAAAAAANw/W3EETIroA80/s1600/drop_shadows_background.png)
 * [Introduction to Supervised learning](https://medium.com/machine-learning-for-humans/supervised-learning-740383a2feab)
-  
