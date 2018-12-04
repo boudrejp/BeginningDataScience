@@ -23,7 +23,11 @@ I would recommend the [Atlassian Git tutorial](https://www.atlassian.com/git/tut
 In general, a git workflow is the following:
   1. Someone sets up a central git repository in Bitbucket, Github, Gitlab, or by some other means
   2. The developers clone the repository
+    a. In git bash, first `cd ./directory/to_lone repo/` then `git clone repo_url.git`
   3. Each individual developer creates branches for the features that he/she works on. Commits are made locally for small blocks of code.
+  a. In git bash, `git branch my_new_branch`, then `git checkout my_new_branch`
+  b. Begin doing work, making changes, additions, etc...
+  c. Upon a good "checkpoint", `git add file_to_be_added`, `git commit -m "message about changes"`, `git push origin my_new_branch`
   4. Once a feature is completed, the developer merges the feature branch into the master branch of the repository in the central repository. Other editors will review to make sure things look good, and work together to resolve merge conflicts.
   5. Developers will merge/rebase their current feature branches to reflect the new changes in the master branch in the central repository.
 
