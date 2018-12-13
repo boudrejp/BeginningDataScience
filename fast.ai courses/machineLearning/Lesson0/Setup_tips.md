@@ -3,10 +3,10 @@
 ### General notes
 * We are trying to get a normally 12 week course done in about 3 weeks. Because of that, we're not going to go into as much detail with work outside of lectures, but I still think we can learn a lot here.
 * Overall, the goal for each lesson here is going to be:
- * Watch the lectures and don't worry too much if you don't understand everything on the first go
- * Pick your own dataset to replicate the analysis done in class (adapt the code where needed for this, but maintain the same overall structure)
-  * I will provide a few examples of sample data sets that should perform similarly to those presented in class if you don't have one that you already have in mind
- * We will have virtual sessions of all of us together to share the progress we've made on our independently chosen data set to learn from those approaches and reinforce what's been done, ask questions, etc
+   * Watch the lectures and don't worry too much if you don't understand everything on the first go
+   * Pick your own dataset to replicate the analysis done in class (adapt the code where needed for this, but maintain the same overall structure)
+      * I will provide a few examples of sample data sets that should perform similarly to those presented in class if you don't have one that you already have in mind
+   * We will have virtual sessions of all of us together to share the progress we've made on our independently chosen data set to learn from those approaches and reinforce what's been done, ask questions, etc
 * We have RocketChat as a collaboration forum for questions, banter, updates, etc
 
 ### Python
