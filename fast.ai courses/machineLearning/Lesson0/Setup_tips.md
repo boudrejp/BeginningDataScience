@@ -2,6 +2,7 @@
 
 ### General notes
 * We are trying to get a normally 12 week course done in about 3 weeks. Because of that, we're not going to go into as much detail with work outside of lectures, but I still think we can learn a lot here.
+   * The idea here is not to make you an expert in one course, but to get you hands on experience such that you would know how to learn more if you so choose. Or, for those of us in Berkeley, becoming used to performing machine learning analyses using python ahead of W207.
 * Overall, the goal for each lesson here is going to be:
    * Watch the lectures and don't worry too much if you don't understand everything on the first go
    * Pick your own dataset to replicate the analysis done in class (adapt the code where needed for this, but maintain the same overall structure)
