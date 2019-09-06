@@ -7,6 +7,7 @@ Utilize your knowledge of R to do an analysis of a dataset, and employ some mach
 Good potential data sources:
 * [House price prediction, a regression example](https://www.kaggle.com/harlfoxem/housesalesprediction)
 * [Predicting if a mushroom is poisonous, a classification example](https://www.kaggle.com/uciml/mushroom-classification)
+* [Predicting defects in silicon wafer manufacturing](https://archive.ics.uci.edu/ml/datasets/SECOM)
 
 Plenty of other sources too if you want to get creative, but these are pretty straightforward in terms of what your target is. If you find one that you're interested in doing, just make sure you have one parameter that is clearly the output. For now, we want to stay away from image recognition and natural language processing-type problems.
 
